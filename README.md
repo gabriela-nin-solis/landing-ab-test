@@ -18,7 +18,9 @@ Caso de negocio simulado del bootcamp de Data Analytics de TripleTen. Los datos 
 
 ## Hallazgos
 ![Tasa de conversión por fuente de tráfico](landing-ab_conversion-por-fuente.png)
+
 *Tasa de conversión por fuente de tráfico.*
+
 
 | Pregunta | Prueba | Resultado |
 |---|---|---|
